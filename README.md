@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Algorithm's skills.
+- 🔭 I’m currently working on my Algorithmic skills.
 - 🌱 I’m currently learning Node.js & GraphQL.
 
 ![Anupam's github stats](https://github-readme-stats.vercel.app/api?username=anuanu0-0&show_icons=true&hide=prs,issues,contribs&theme=dracula)
