@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Algorithmic skills.
-- 👯 I’m looking to collaborate on Android development (Kotlin)
+- 👯 I’m looking to collaborate on Startup App Ideas.
 
 ![Anupam's github stats](https://github-readme-stats.vercel.app/api?username=anuanu0-0&show_icons=true&hide=prs,issues,contribs&theme=dracula)
 <!--
