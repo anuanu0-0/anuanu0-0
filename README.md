@@ -2,7 +2,6 @@
 <h3 align="center">Backend Developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuanu0-0&label=Profile%20views&color=0e75b6&style=flat" alt="anuanu0-0" /> </p>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/WqNmbi4La3IJg9PhcR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/playvalorant-gamechangers-heretoslay-vctgamechangers-WqNmbi4La3IJg9PhcR">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **Data structures and Algorithms and Frontend development.**
 
