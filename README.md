@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuanu0-0&label=Profile%20views&color=0e75b6&style=flat" alt="anuanu0-0" /> </p>
 <img align="right" src="https://github.com/anuanu0-0/anuanu0-0/blob/master/bxsqEnz.gif" width="50%">
-<span align="right">Add me @Valorant : **WickedIsResting#0000**</span>
 
 - 🔭 I’m currently working on **DSA & Frontend dev.**
 - 🌱 I’m currently learning **Object modelling (LLD)**
@@ -11,6 +10,8 @@
 - 🤝 I’m looking for help with **system design.**
 - 💬 Ask me about **data structure and algorithms**
 - 📫 How to reach me **anusrivastava910@gmail.com**
+- 
+<div align="right">Add me @Valorant : **WickedIsResting#0000**</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
