@@ -4,8 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuanu0-0&label=Profile%20views&color=0e75b6&style=flat" alt="anuanu0-0" /> </p>
 <img align="right" src="https://github.com/anuanu0-0/anuanu0-0/blob/master/bxsqEnz.gif" width="50%">
 
-**ADD ME VALORANT : WickedIsResting #0000**
-<hr/>
 - 🔭 I’m currently working on **DSA & Frontend dev.**
 - 🌱 I’m currently learning **Object modelling (LLD)**
 - 👯 I’m looking to collaborate on **startup ideas.**
@@ -13,6 +11,7 @@
 - 💬 Ask me about **data structure and algorithms**
 - 📫 How to reach me **anusrivastava910@gmail.com**
 
+<span align="right">Add me @Valorant : **WickedIsResting#0000**</span>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anupam-srivastava-43631716b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-srivastava-43631716b" height="30" width="40" /></a>
