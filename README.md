@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuanu0-0&label=Profile%20views&color=0e75b6&style=flat" alt="anuanu0-0" /> </p>
-<img src="https://github.com/anuanu0-0/anuanu0-0/blob/master/bxsqEnz.gif" width="100%">
+<img src="https://github.com/anuanu0-0/anuanu0-0/blob/master/bxsqEnz.gif">
 
 - 🔭 I’m currently working on **Data structures and Algorithms and Frontend development.**
 
