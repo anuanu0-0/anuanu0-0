@@ -3,12 +3,23 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuanu0-0&label=Profile%20views&color=0e75b6&style=flat" alt="anuanu0-0" /> </p>
 
-<iframe id="inlineFrameExample"
+
+<div class="gd__aspect-ratio-box">
+    <iframe
+        src="https://embed.gamedistribution.com/?url=https://html5.gamedistribution.com/405c00612981466cbc5d9dcef4214811/&width=510&height=900&language=es&gdpr-tracking=1&gdpr-targeting=1"
+        width="100%"
+        height="100%"
+        scrolling="none"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+    <iframe id="inlineFrameExample"
     title="Inline Frame Example"
     width="800"
     height="800"
     src="https://hextris.io/">
 </iframe>
+</div>
 
 - 🔭 I’m currently working on **Data structures and Algorithms and Frontend development.**
 
