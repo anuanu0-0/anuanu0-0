@@ -10,8 +10,7 @@
 - 🤝 I’m looking for help with **system design.**
 - 💬 Ask me about **data structure and algorithms**
 - 📫 How to reach me **anusrivastava910@gmail.com**
-- 
-<div align="right">Add me @Valorant : **WickedIsResting#0000**</div>
+- 🎮 *Add me @Valorant : **WickedIsResting#0000***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
