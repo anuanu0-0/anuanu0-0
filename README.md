@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuanu0-0&label=Profile%20views&color=0e75b6&style=flat" alt="anuanu0-0" /> </p>
-<img align="center" src="https://github.com/anuanu0-0/anuanu0-0/blob/master/bxsqEnz.gif" >
+<img align="center" src="https://github.com/anuanu0-0/anuanu0-0/blob/master/bxsqEnz.gif" width="100%">
 
 - 🔭 I’m currently working on **DSA & Frontend dev.**
 - 🌱 I’m currently learning **Object modelling (LLD)**
