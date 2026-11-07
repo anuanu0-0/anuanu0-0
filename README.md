@@ -9,6 +9,5 @@
 - 👯 I’m looking to collaborate on **startup ideas.**
 - 🤝 I’m looking for help with **system design.**
 - 💬 Ask me about **data structure and algorithms**
-- 📫 How to reach me **anusrivastava910@gmail.com**
 - 🎮 *Add me @Valorant : **WickedIsResting#0000***
 
